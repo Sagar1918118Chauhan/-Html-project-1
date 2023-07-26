@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    background-color: aqua;
+    text-align: center;
+}
+nav{
+    background-color: white;
+    overflow: hidden;
+}
+section h2{
+    text-align: center;
+
+}
+section pre{
+    color: rgba(42, 165, 165, 0.952);
+}
+#second
+{
+    background-color: rgb(255, 205, 248);
+}
+#third{
+      background-color: rgba(137, 43, 226, 0.947);
+}
+#fourth
+{
+    background-color: rgba(165, 79, 42, 0.838);
+}
+#six address{
+  text-align: center;
+}
+#six{
+    background-color: rgba(255, 0, 217, 0.537);
+}
+#five{
+    text-align: center;
+}
